@@ -5,13 +5,13 @@
   "packageManager": "pnpm@9.7.1",
   "license": "MIT",
   "author": "Diarra Boubacar <bodiarra20@gmail.com>",
-  "homepage": "https://github.com/b2oba151/next-ts starter#readme",
+  "homepage": "https://github.com/b2oba151/next-ts-starter#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/b2oba151/next-ts starter.git"
+    "url": "git+https://github.com/b2oba151/next-ts-starter.git"
   },
   "bugs": {
-    "url": "https://github.com/b2oba151/next-ts starter/issues"
+    "url": "https://github.com/b2oba151/next-ts-starter/issues"
   },
   "description": "Next.js starter with TypeScript",
 
